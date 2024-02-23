@@ -1,1 +1,1 @@
-# gulp-browsersync
+# Gulp & BrowserSync setup
